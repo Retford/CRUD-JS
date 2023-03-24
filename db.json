@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Harland Lohora",
+      "email": "harland@alura.com",
+      "id": 1
+    },
+    {
+      "nombre": "Retford Julcarima",
+      "email": "retfordjb@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Medaly Mirella",
+      "email": "medalymirella@gmail.com",
+      "id": 3
+    }
+  ]
+}
